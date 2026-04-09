@@ -36,5 +36,10 @@ git clone https://github.com/MartinLBarron/analysts-little-helper.git
 cp -r analysts-little-helper ~/.claude/skills/
 ```
 
+or within Claude
 
+```
+/plugin add /path/to/skill-directory
+
+```
 

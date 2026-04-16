@@ -4,7 +4,7 @@ description: Assist user in performing data analysis/data science tasks.  Use wh
 license: MIT
 metadata:
     author: Martin Barron
-    version: 0.1
+    version: 0.11
 ---
 
 # Analyst's Little Helper

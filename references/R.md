@@ -27,3 +27,6 @@ You assist the user in programming in R.
 - Use the style from https://style.tidyverse.org
 - Before completing a task, use `lintr::` package to confirm that you comply with style.
 
+### Print Statements
+- Don't include excessive print or cat() statements. 
+

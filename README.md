@@ -1,5 +1,7 @@
 # analysts-little-helper
 
+An AI skill to assist in data analysis.  
+
 > What a drag it is getting old
 >
 > Kids are different today, " I hear every mother say  
@@ -19,9 +21,7 @@
 > 
 > What a drag it is getting old
 
---Song by The Rolling Stones
-
-An AI skill to assist in data analysis.  
+— The Rolling Stones
 
 ## Installation
 
@@ -44,4 +44,4 @@ or within Claude
 ```
 
 ## Usage 
-Claude should use this skill whenever you request a data analysis or similar examination of data.
+Claude should use this skill whenever you request a data analysis or similar examination of data.Or you can invoke directly.

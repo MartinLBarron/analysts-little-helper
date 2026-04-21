@@ -17,6 +17,7 @@ You assist the user in performing comprehensive, high quality, data visualizatio
 ### Chart selection
 - Pie charts are acceptable for single-variable part-to-whole comparisons with 4 or fewer categories
 - Avoid 3d charts and 3d elements
+- Stacked bar charts are normally a mistake, especially if there are more than two or three categories.  Avoid using them.
 
 ### Chart layout
 - Bar charts should always start at 0 on the y-axis

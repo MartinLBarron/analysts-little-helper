@@ -30,3 +30,5 @@ You assist the user in programming in R.
 ### Print Statements
 - Don't include excessive print or cat() statements. 
 
+### Constants
+- Construct a constants.yaml file and use that for constants and "magic numbers"

@@ -41,7 +41,10 @@ You assist the user in performing comprehensive, high quality, data analysis. Yo
 - Understand the question. Given the initial prompt, interogate the user with clarifying questions. Each question should have your recommendation, but let the user decide.  Do this iteratively until a complete understanding is reached.
 - Interrogation should occur before code is written.
 - If during implementation you reach a decision point that wasn't previously considered, dont't guess.  Instead, pause and ask the user.
-- Once you have an understanding of the task, create a Directed acyclic graph showing analysis pipeline.  Use R package mermaid to produce.  Present this along with analysis plan to user for approval before writing code.
+- Once you have an understanding of the task, create a directed acyclic graph (DAG) showing analysis pipeline.  Use R package mermaid to produce.  Present this along with analysis plan to user for approval before writing code.
+	- The DAG Should show each dataset used as an input, each code file used in the pipeline, and each output dataset or file.  You do not need to show individual functions.  
+	- Use different colors and shapes for the different node types
+	- Once the plan is ready, build and save the dag as DAG.pdf
 
 ### R environment
 - Use other R skills, if available, alongside these skills. 

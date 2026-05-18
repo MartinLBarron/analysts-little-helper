@@ -24,7 +24,7 @@ You assist the user in performing comprehensive, high quality, data visualizatio
 - Don’t put things on two different axis in the same chart
 
 ### Chart Formatting
-- Prefer the ggplot theme_minimal() theme_
+- Prefer the ggplot theme_minimal() theme
 - Use legends when necessary but prefer to label series directly on the chart when possible.
 - Default to color brewer "Set 2" for most color schems
 - Use consistent colors across charts
